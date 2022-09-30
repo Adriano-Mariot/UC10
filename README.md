@@ -1,3 +1,16 @@
+># Professor, leia-me ! 
+>
+>## Links dos arquivos utilizados durante o encontro remoto 2 da UC-10 - FS12
+>
+>- [Banco de dados JSON da api](https://github.com/Adriano-Mariot/UC10/blob/main/db.json)
+>- [Services criados](https://github.com/Adriano-Mariot/UC10/blob/main/src/app/services/user.service.ts)
+>- [App modulo](https://github.com/Adriano-Mariot/UC10/blob/main/src/app/app.module.ts)
+>- [Cod. login component TS da pagina login](https://github.com/Adriano-Mariot/UC10/blob/main/src/app/views/login/login.component.ts)
+>- [Cod. login component HTML da pagina login](https://github.com/Adriano-Mariot/UC10/blob/main/src/app/views/login/login.component.html)
+>
+
+
+
 # Eplayer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
